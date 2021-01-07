@@ -1,4 +1,4 @@
-package com.simcoder.smartwstmngmt;
+package com.smt.smartwstmngmt;
 
 import org.junit.Test;
 

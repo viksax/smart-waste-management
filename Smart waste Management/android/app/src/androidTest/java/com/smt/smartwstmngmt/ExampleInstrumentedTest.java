@@ -1,4 +1,4 @@
-package com.simcoder.smartwstmngmt;
+package com.smt.smartwstmngmt;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
